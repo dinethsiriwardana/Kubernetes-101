@@ -30,9 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "00e7cb9134e3551d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Welcome.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       },
       {
         "id": "b3d3efc39df3a3b6",
@@ -112,7 +124,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Kubernetes Pod Creation Note.md",
+                "file": "Welcome.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +141,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Kubernetes Pod Creation Note.md",
+                "file": "Welcome.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -152,7 +164,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Kubernetes Pod Creation Note.md"
+                "file": "Welcome.md"
               }
             }
           }
@@ -173,9 +185,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "05aa5608476c6e3c",
+  "active": "00e7cb9134e3551d",
   "lastOpenFiles": [
-    "Welcome.md",
-    "Kubernetes Pod Creation Note.md"
+    "Kubernetes Deployment Creation Note.md",
+    "Kubernetes Pod Creation Note.md",
+    "Welcome.md"
   ]
 }
