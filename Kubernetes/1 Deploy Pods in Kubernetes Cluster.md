@@ -70,3 +70,6 @@ This note provides a step-by-step explanation of the commands used to create a K
    - `kubectl describe pod pod-nginx`: Display detailed information about `pod-nginx`.
 
 This sequence of commands ensures that a Kubernetes pod named `pod-nginx` is created with the specified configuration, including the nginx image with the latest tag, the `app` label set to `nginx_app`, and the container named `nginx-container`.
+
+
+[[2 Deploy Applications with Kubernetes Deployments]]

@@ -63,3 +63,5 @@ This note provides a step-by-step explanation of the commands used to create a K
   - **Normal**: ScalingReplicaSet, Age: 80s, From: deployment-controller, Message: Scaled up replica set nginx-7bf8c77b5b to 1
 
 This sequence of commands ensures that a Kubernetes deployment named `nginx` is created with the specified configuration, including the nginx image with the latest tag. The deployment details provide insights into the status, strategy, and conditions of the deployment.
+
+[[3 Setup Kubernetes Namespaces and PODs]]

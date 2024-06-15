@@ -8,36 +8,36 @@
         "type": "tabs",
         "children": [
           {
-            "id": "fec428ed56dde29c",
+            "id": "69e4075f999cc0b3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Welcome.md",
+                "file": "3 Setup Kubernetes Namespaces and PODs.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "05aa5608476c6e3c",
+            "id": "98200cc6dabebd10",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Kubernetes Pod Creation Note.md",
+                "file": "5 Execute Rolling Updates in Kubernetes.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "00e7cb9134e3551d",
+            "id": "5b7290d2bfdcc9da",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Welcome.md",
+                "file": "5 Execute Rolling Updates in Kubernetes.md",
                 "mode": "source",
                 "source": false
               }
@@ -47,11 +47,11 @@
         "currentTab": 2
       },
       {
-        "id": "b3d3efc39df3a3b6",
+        "id": "947ce4b653a88282",
         "type": "tabs",
         "children": [
           {
-            "id": "fef11e01cc90761c",
+            "id": "e43c73797608ee1b",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -124,7 +124,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Welcome.md",
+                "file": "5 Execute Rolling Updates in Kubernetes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -141,7 +141,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Welcome.md",
+                "file": "5 Execute Rolling Updates in Kubernetes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -164,7 +164,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Welcome.md"
+                "file": "5 Execute Rolling Updates in Kubernetes.md"
               }
             }
           }
@@ -185,10 +185,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "00e7cb9134e3551d",
+  "active": "5b7290d2bfdcc9da",
   "lastOpenFiles": [
-    "Kubernetes Deployment Creation Note.md",
-    "Kubernetes Pod Creation Note.md",
+    "6 Revert Deployment to Previous Version in Kubernetes.md",
+    "5 Execute Rolling Updates in Kubernetes.md",
+    "4 Set Resource Limits in Kubernetes Pods.md",
+    "3 Setup Kubernetes Namespaces and PODs.md",
+    "2 Deploy Applications with Kubernetes Deployments.md",
+    "1 Deploy Pods in Kubernetes Cluster.md",
     "Welcome.md"
   ]
 }
