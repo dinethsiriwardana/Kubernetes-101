@@ -55,3 +55,5 @@ kubectl describe deployment nginx-deployment
 ```
 
 This will ensure the `nginx-deployment` is rolled back to the previous version, and all pods are operational.
+
+[[7 Deploy Replica Set in Kubernetes Cluster]]

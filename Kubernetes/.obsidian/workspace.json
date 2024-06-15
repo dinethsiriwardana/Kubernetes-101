@@ -42,9 +42,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "b1520d1a5d922f3b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "6 Revert Deployment to Previous Version in Kubernetes.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       },
       {
         "id": "947ce4b653a88282",
@@ -124,7 +136,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "5 Execute Rolling Updates in Kubernetes.md",
+                "file": "6 Revert Deployment to Previous Version in Kubernetes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -141,7 +153,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "5 Execute Rolling Updates in Kubernetes.md",
+                "file": "6 Revert Deployment to Previous Version in Kubernetes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -164,7 +176,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "5 Execute Rolling Updates in Kubernetes.md"
+                "file": "6 Revert Deployment to Previous Version in Kubernetes.md"
               }
             }
           }
@@ -185,10 +197,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5b7290d2bfdcc9da",
+  "active": "b1520d1a5d922f3b",
   "lastOpenFiles": [
-    "6 Revert Deployment to Previous Version in Kubernetes.md",
+    "7 Deploy Replica Set in Kubernetes Cluster.md",
     "5 Execute Rolling Updates in Kubernetes.md",
+    "6 Revert Deployment to Previous Version in Kubernetes.md",
     "4 Set Resource Limits in Kubernetes Pods.md",
     "3 Setup Kubernetes Namespaces and PODs.md",
     "2 Deploy Applications with Kubernetes Deployments.md",
