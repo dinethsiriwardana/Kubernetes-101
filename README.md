@@ -6,9 +6,20 @@ This repository contains documentation and examples for practicing Kubernetes ta
 
 **Kubernetes**, often abbreviated as **K8s**, is an open-source platform designed to automate deploying, scaling, and operating application containers. Originally developed by Google, Kubernetes is now maintained by the [Cloud Native Computing Foundation (CNCF)](https://www.cncf.io/). It provides a framework to run distributed systems resiliently, handling failover, scaling, and deployment seamlessly.
 
+![image](https://github.com/dinethsiriwardana/Kubernetes-101/assets/91774218/c4ad2501-0635-42af-b1f8-d8a6e4867c6b)
+
+
 ## What is KodeKloud?
 
 [KodeKloud](https://www.kodekloud.com) is an online platform offering hands-on training for various DevOps and IT skills, including Kubernetes. It provides interactive courses and labs that simulate real-world scenarios, helping learners gain practical experience. KodeKloud's Level 1 Kubernetes Practice is designed to help beginners get up to speed with fundamental Kubernetes concepts and tasks.
+
+![image](https://github.com/dinethsiriwardana/Kubernetes-101/assets/91774218/7ba92409-a519-4a72-bc0b-0abd408adb06)
+
+<hr>
+
+### Use [Obsidian](https://obsidian.md/) for a superior viewing experience.  <a href="https://obsidian.md/"><img src="https://github.com/dinethsiriwardana/Kubernetes-101/assets/91774218/fbd3b4a1-d261-4835-8b71-21b53c885051" alt="Obsidian Logo" width="50"></a>
+
+
 
 ## Tasks Overview
 
