@@ -1,14 +1,14 @@
 # Kubernetes 101
 
-This repository contains documentation and examples for practicing Kubernetes tasks based on the engineer.kodekloud.com Level 1 Kubernetes Practice. Each task is aimed at building fundamental Kubernetes skills.
+This repository contains documentation and examples for practicing Kubernetes tasks based on the [KodeKloud](https://www.kodekloud.com) Level 1 Kubernetes Practice. Each task is aimed at building fundamental Kubernetes skills.
 
 ## What is Kubernetes?
 
-Kubernetes, often abbreviated as K8s, is an open-source platform designed to automate deploying, scaling, and operating application containers. Originally developed by Google, Kubernetes is now maintained by the Cloud Native Computing Foundation (CNCF). It provides a framework to run distributed systems resiliently, handling failover, scaling, and deployment seamlessly.
+**Kubernetes**, often abbreviated as **K8s**, is an open-source platform designed to automate deploying, scaling, and operating application containers. Originally developed by Google, Kubernetes is now maintained by the [Cloud Native Computing Foundation (CNCF)](https://www.cncf.io/). It provides a framework to run distributed systems resiliently, handling failover, scaling, and deployment seamlessly.
 
 ## What is KodeKloud?
 
-KodeKloud is an online platform offering hands-on training for various DevOps and IT skills, including Kubernetes. It provides interactive courses and labs that simulate real-world scenarios, helping learners gain practical experience. KodeKloud's Level 1 Kubernetes Practice is designed to help beginners get up to speed with fundamental Kubernetes concepts and tasks.
+[KodeKloud](https://www.kodekloud.com) is an online platform offering hands-on training for various DevOps and IT skills, including Kubernetes. It provides interactive courses and labs that simulate real-world scenarios, helping learners gain practical experience. KodeKloud's Level 1 Kubernetes Practice is designed to help beginners get up to speed with fundamental Kubernetes concepts and tasks.
 
 ## Tasks Overview
 
@@ -84,7 +84,7 @@ Contributions are welcome! Please fork the repository and submit a pull request.
 
 ## License
 
-This project is licensed under the MIT License.
+This project is licensed under the [MIT License](LICENSE).
 
 ---
 
