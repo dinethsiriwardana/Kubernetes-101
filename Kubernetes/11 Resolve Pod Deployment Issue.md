@@ -73,3 +73,6 @@ Here are the detailed steps taken to identify and rectify the issue:
     This shows that the pod is now in the running state, indicating that the application is accessible.
 
 By correcting the image name, the `httpd-container` was able to pull the correct `httpd:latest` image, allowing the pod to start successfully.
+
+
+[[12 Update Deployment and Service in Kubernetes]]

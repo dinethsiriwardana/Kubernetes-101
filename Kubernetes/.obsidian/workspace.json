@@ -69,6 +69,18 @@
             }
           },
           {
+            "id": "108e3c49a884128e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "10 Set Up Time Check Pod in Kubernetes.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "58e586df4d03f84e",
             "type": "leaf",
             "state": {
@@ -105,7 +117,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       },
       {
         "id": "947ce4b653a88282",
@@ -186,6 +198,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "10 Set Up Time Check Pod in Kubernetes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -202,6 +215,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "10 Set Up Time Check Pod in Kubernetes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -223,7 +237,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "10 Set Up Time Check Pod in Kubernetes.md"
+              }
             }
           }
         ]
@@ -243,9 +259,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e43c73797608ee1b",
+  "active": "108e3c49a884128e",
   "lastOpenFiles": [
     "11 Resolve Pod Deployment Issue.md",
+    "12 Update Deployment and Service in Kubernetes.md",
     "10 Set Up Time Check Pod in Kubernetes.md",
     "9 Create Countdown Job in Kubernetes.md",
     "4 Set Resource Limits in Kubernetes Pods.md",
