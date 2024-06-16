@@ -52,3 +52,5 @@ By following these steps, you will create a Job named `countdown-xfusion` with t
 Reference - 
 
 https://kubernetes.io/docs/concepts/workloads/controllers/job/
+
+[[10 Set Up Time Check Pod in Kubernetes]]

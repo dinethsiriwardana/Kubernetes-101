@@ -6,6 +6,7 @@
       {
         "id": "5bd4a88adce9c990",
         "type": "tabs",
+        "dimension": 47.86117836965295,
         "children": [
           {
             "id": "69e4075f999cc0b3",
@@ -56,6 +57,18 @@
             }
           },
           {
+            "id": "bc36d39877c5df1c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "11 Resolve Pod Deployment Issue.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "58e586df4d03f84e",
             "type": "leaf",
             "state": {
@@ -78,13 +91,26 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "fb9602d488546072",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "9 Create Countdown Job in Kubernetes.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       },
       {
         "id": "947ce4b653a88282",
         "type": "tabs",
+        "dimension": 52.13882163034705,
         "children": [
           {
             "id": "e43c73797608ee1b",
@@ -144,7 +170,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 372.5
+    "width": 396.5
   },
   "right": {
     "id": "4bc024588cd375bf",
@@ -160,7 +186,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "4 Set Resource Limits in Kubernetes Pods.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -177,7 +202,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "4 Set Resource Limits in Kubernetes Pods.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -199,9 +223,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "4 Set Resource Limits in Kubernetes Pods.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -221,16 +243,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8cc356e8225d4cc9",
+  "active": "e43c73797608ee1b",
   "lastOpenFiles": [
+    "11 Resolve Pod Deployment Issue.md",
+    "10 Set Up Time Check Pod in Kubernetes.md",
+    "9 Create Countdown Job in Kubernetes.md",
+    "4 Set Resource Limits in Kubernetes Pods.md",
     "6 Revert Deployment to Previous Version in Kubernetes.md",
     "7 Deploy Replica Set in Kubernetes Cluster.md",
     "8 Schedule Cronjobs in Kubernetes.md",
-    "9 Create Countdown Job in Kubernetes.md",
     "1 Deploy Pods in Kubernetes Cluster.md",
     "2 Deploy Applications with Kubernetes Deployments.md",
     "5 Execute Rolling Updates in Kubernetes.md",
-    "4 Set Resource Limits in Kubernetes Pods.md",
     "3 Setup Kubernetes Namespaces and PODs.md",
     "Welcome.md"
   ]
