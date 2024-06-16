@@ -1,5 +1,7 @@
 Steps to create a pod named `httpd-pod` with specified resource limits and requests:
 
+Reference:- https://kubernetes.io/docs/concepts/configuration/manage-resources-containers/
+
 1. **Generate the pod configuration with a dry run**:
    ```bash
    kubectl run httpd-pod --image=httpd:latest --dry-run=client -o yaml > pod.yaml

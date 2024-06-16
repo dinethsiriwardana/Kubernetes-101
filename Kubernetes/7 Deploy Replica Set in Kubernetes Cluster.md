@@ -1,5 +1,8 @@
 To create the desired ReplicaSet, you can follow these steps:
 
+Reference :- 
+https://kubernetes.io/docs/concepts/workloads/controllers/replicaset/
+
 1. **Generate the YAML for the ReplicaSet**:
     ```bash
     kubectl create deployment nginx-replicaset --image=nginx:latest --dry-run=client -o yaml > replicaset.yaml
@@ -51,3 +54,5 @@ To create the desired ReplicaSet, you can follow these steps:
     ```
 
 By following these steps, you will create a ReplicaSet named `nginx-replicaset` with the desired configuration.
+
+[[8 Schedule Cronjobs in Kubernetes]]

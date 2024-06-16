@@ -49,14 +49,38 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "6 Revert Deployment to Previous Version in Kubernetes.md",
+                "file": "7 Deploy Replica Set in Kubernetes Cluster.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "58e586df4d03f84e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "8 Schedule Cronjobs in Kubernetes.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8cc356e8225d4cc9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "4 Set Resource Limits in Kubernetes Pods.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 5
       },
       {
         "id": "947ce4b653a88282",
@@ -120,7 +144,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 372.5
   },
   "right": {
     "id": "4bc024588cd375bf",
@@ -136,7 +160,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "6 Revert Deployment to Previous Version in Kubernetes.md",
+                "file": "4 Set Resource Limits in Kubernetes Pods.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -153,7 +177,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "6 Revert Deployment to Previous Version in Kubernetes.md",
+                "file": "4 Set Resource Limits in Kubernetes Pods.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -176,7 +200,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "6 Revert Deployment to Previous Version in Kubernetes.md"
+                "file": "4 Set Resource Limits in Kubernetes Pods.md"
               }
             }
           }
@@ -197,15 +221,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b1520d1a5d922f3b",
+  "active": "8cc356e8225d4cc9",
   "lastOpenFiles": [
-    "7 Deploy Replica Set in Kubernetes Cluster.md",
-    "5 Execute Rolling Updates in Kubernetes.md",
     "6 Revert Deployment to Previous Version in Kubernetes.md",
+    "7 Deploy Replica Set in Kubernetes Cluster.md",
+    "8 Schedule Cronjobs in Kubernetes.md",
+    "9 Create Countdown Job in Kubernetes.md",
+    "1 Deploy Pods in Kubernetes Cluster.md",
+    "2 Deploy Applications with Kubernetes Deployments.md",
+    "5 Execute Rolling Updates in Kubernetes.md",
     "4 Set Resource Limits in Kubernetes Pods.md",
     "3 Setup Kubernetes Namespaces and PODs.md",
-    "2 Deploy Applications with Kubernetes Deployments.md",
-    "1 Deploy Pods in Kubernetes Cluster.md",
     "Welcome.md"
   ]
 }
