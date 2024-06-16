@@ -4,144 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "5bd4a88adce9c990",
+        "id": "7b5a23b5b9c7e74c",
         "type": "tabs",
-        "dimension": 99.99999999999999,
         "children": [
           {
-            "id": "69e4075f999cc0b3",
+            "id": "c25066a1e15f6722",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3 Setup Kubernetes Namespaces and PODs.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "98200cc6dabebd10",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "5 Execute Rolling Updates in Kubernetes.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5b7290d2bfdcc9da",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "5 Execute Rolling Updates in Kubernetes.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b1520d1a5d922f3b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "7 Deploy Replica Set in Kubernetes Cluster.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "bc36d39877c5df1c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "11 Resolve Pod Deployment Issue.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "108e3c49a884128e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "12 Update Deployment and Service in Kubernetes.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c2aab80fe069148c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "13 Deploy Highly Available Pods with Replication Controller.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "323d3b58557b796a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "13 Deploy Highly Available Pods with Replication Controller.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "58e586df4d03f84e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "8 Schedule Cronjobs in Kubernetes.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8cc356e8225d4cc9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "4 Set Resource Limits in Kubernetes Pods.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "fb9602d488546072",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "9 Create Countdown Job in Kubernetes.md",
+                "file": "1 Deploy Pods in Kubernetes Cluster.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 7
+        ]
       }
     ],
     "direction": "vertical"
@@ -207,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "13 Deploy Highly Available Pods with Replication Controller.md",
+                "file": "1 Deploy Pods in Kubernetes Cluster.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -224,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "13 Deploy Highly Available Pods with Replication Controller.md",
+                "file": "1 Deploy Pods in Kubernetes Cluster.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -247,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "13 Deploy Highly Available Pods with Replication Controller.md"
+                "file": "1 Deploy Pods in Kubernetes Cluster.md"
               }
             }
           }
@@ -268,10 +146,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "323d3b58557b796a",
+  "active": "c25066a1e15f6722",
   "lastOpenFiles": [
-    "14 Resolve Volume Mounts Issue in Kubernetes.md",
+    "Welcome.md",
+    "8 Schedule Cronjobs in Kubernetes.md",
+    "Test.md",
+    "1 Deploy Pods in Kubernetes Cluster.md",
     "13 Deploy Highly Available Pods with Replication Controller.md",
+    "14 Resolve Volume Mounts Issue in Kubernetes.md",
     "12 Update Deployment and Service in Kubernetes.md",
     "10 Set Up Time Check Pod in Kubernetes.md",
     "11 Resolve Pod Deployment Issue.md",
@@ -279,11 +161,8 @@
     "4 Set Resource Limits in Kubernetes Pods.md",
     "6 Revert Deployment to Previous Version in Kubernetes.md",
     "7 Deploy Replica Set in Kubernetes Cluster.md",
-    "8 Schedule Cronjobs in Kubernetes.md",
-    "1 Deploy Pods in Kubernetes Cluster.md",
     "2 Deploy Applications with Kubernetes Deployments.md",
     "5 Execute Rolling Updates in Kubernetes.md",
-    "3 Setup Kubernetes Namespaces and PODs.md",
-    "Welcome.md"
+    "3 Setup Kubernetes Namespaces and PODs.md"
   ]
 }
