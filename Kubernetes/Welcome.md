@@ -1,33 +1,66 @@
-**Kubernetes Overview and Usage Guide**
+This is a comprehensive overview of the commonly used Kubernetes commands, covering various resource types. Most of these commands can be found in the upcoming test.
 
-**Introduction to Kubernetes:**
-Kubernetes is a powerful container orchestration platform that helps manage containerized applications across multiple hosts. It provides essential features like load balancing, scaling, and automation of deployment and management.
+**So, Good Luck**  :- )
 
-**How to Use Kubernetes:**
+1. **Pods:**
+   - **Create a Pod:** `kubectl run pod-name --image=image-name`
+   - **List Pods:** `kubectl get pods`
+   - **Describe Pod:** `kubectl describe pod pod-name`
+   - **Delete Pod:** `kubectl delete pod pod-name`
 
-1. **Setup and Configuration:**
-   - Install Kubernetes using tools like Minikube or Kubeadm.
-   - Configure your Kubernetes cluster by setting up the master and worker nodes.
+2. **Deployments:**
+   - **Create a Deployment:** `kubectl create deployment deployment-name --image=image-name`
+   - **List Deployments:** `kubectl get deployments`
+   - **Scale Deployment:** `kubectl scale deployment deployment-name --replicas=3`
+   - **Update Deployment Image:** `kubectl set image deployment/deployment-name container-name=image-name:new-tag`
+   - **Rollout Status:** `kubectl rollout status deployment/deployment-name`
+   - **Rollback Deployment:** `kubectl rollout undo deployment/deployment-name`
 
-2. **Deploying Applications:**
-   - Define your application specifications in YAML files.
-   - Use `kubectl apply -f <filename>.yaml` to deploy your application.
+3. **Services:**
+   - **Create a Service:** `kubectl expose deployment/deployment-name --port=80 --target-port=8080 --type=LoadBalancer`
+   - **List Services:** `kubectl get services`
+   - **Describe Service:** `kubectl describe service service-name`
 
-3. **Scaling and Load Balancing:**
-   - Scale your application using `kubectl scale --replicas=<number> deployment/<app-name>`.
-   - Kubernetes automatically balances the load across multiple instances.
+4. **ConfigMaps:**
+   - **Create a ConfigMap:** `kubectl create configmap config-map-name --from-file=path/to/file`
+   - **List ConfigMaps:** `kubectl get configmaps`
+   - **Describe ConfigMap:** `kubectl describe configmap config-map-name`
 
-4. **Managing Updates:**
-   - Perform rolling updates with `kubectl set image deployment/<app-name> <container-name>=<new-image>`.
-   - Kubernetes ensures zero downtime by updating instances gradually.
+5. **Secrets:**
+   - **Create a Secret:** `kubectl create secret generic secret-name --from-literal=key=value`
+   - **List Secrets:** `kubectl get secrets`
+   - **Describe Secret:** `kubectl describe secret secret-name`
 
-5. **Handling Failures:**
-   - Monitor your cluster with tools like Prometheus and Grafana.
-   - Use Kubernetes' self-healing capabilities to automatically restart failed containers.
+6. **Namespaces:**
+   - **Create a Namespace:** `kubectl create namespace namespace-name`
+   - **List Namespaces:** `kubectl get namespaces`
+   - **Describe Namespace:** `kubectl describe namespace namespace-name`
 
-**Conclusion:**
-Kubernetes simplifies managing containerized applications, offering scalability, load balancing, and automated updates. For more detailed challenges and use cases, visit engineer.kodekloud.com.
+7. **Nodes:**
+   - **List Nodes:** `kubectl get nodes`
+   - **Describe Node:** `kubectl describe node node-name`
 
+8. **Logs and Exec:**
+   - **View Pod Logs:** `kubectl logs pod-name`
+   - **Exec into Pod:** `kubectl exec -it pod-name -- /bin/bash`
+
+9. **Context and Configuration:**
+   - **Switch Context:** `kubectl config use-context context-name`
+   - **View Config:** `kubectl config view`
 
 
 [[1 Deploy Pods in Kubernetes Cluster]]
+[[2 Deploy Applications with Kubernetes Deployments]]
+[[3 Setup Kubernetes Namespaces and PODs]]
+[[4 Set Resource Limits in Kubernetes Pods]]
+[[5 Execute Rolling Updates in Kubernetes]]
+[[6 Revert Deployment to Previous Version in Kubernetes]]
+[[7 Deploy Replica Set in Kubernetes Cluster]]
+[[8 Schedule Cronjobs in Kubernetes]]
+[[9 Create Countdown Job in Kubernetes]]
+[[10 Set Up Time Check Pod in Kubernetes]]
+[[11 Resolve Pod Deployment Issue]]
+[[12 Update Deployment and Service in Kubernetes]]
+[[13 Deploy Highly Available Pods with Replication Controller]]
+[[14 Resolve Volume Mounts Issue in Kubernetes]]
+
