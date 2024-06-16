@@ -64,3 +64,6 @@ After making these changes, verify that they have been applied correctly:
     ```
 
 Following these steps ensures the deployment and service are updated without deleting them, implementing the necessary changes effectively.
+
+
+[[12 Update Deployment and Service in Kubernetes]]

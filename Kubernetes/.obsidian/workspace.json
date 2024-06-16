@@ -6,7 +6,7 @@
       {
         "id": "5bd4a88adce9c990",
         "type": "tabs",
-        "dimension": 47.86117836965295,
+        "dimension": 99.99999999999999,
         "children": [
           {
             "id": "69e4075f999cc0b3",
@@ -74,7 +74,31 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "10 Set Up Time Check Pod in Kubernetes.md",
+                "file": "12 Update Deployment and Service in Kubernetes.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c2aab80fe069148c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "13 Deploy Highly Available Pods with Replication Controller.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "323d3b58557b796a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "13 Deploy Highly Available Pods with Replication Controller.md",
                 "mode": "source",
                 "source": false
               }
@@ -117,22 +141,7 @@
             }
           }
         ],
-        "currentTab": 5
-      },
-      {
-        "id": "947ce4b653a88282",
-        "type": "tabs",
-        "dimension": 52.13882163034705,
-        "children": [
-          {
-            "id": "e43c73797608ee1b",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          }
-        ]
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -182,7 +191,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 396.5
+    "width": 213.5
   },
   "right": {
     "id": "4bc024588cd375bf",
@@ -198,7 +207,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "10 Set Up Time Check Pod in Kubernetes.md",
+                "file": "13 Deploy Highly Available Pods with Replication Controller.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -215,7 +224,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "10 Set Up Time Check Pod in Kubernetes.md",
+                "file": "13 Deploy Highly Available Pods with Replication Controller.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -238,7 +247,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "10 Set Up Time Check Pod in Kubernetes.md"
+                "file": "13 Deploy Highly Available Pods with Replication Controller.md"
               }
             }
           }
@@ -259,11 +268,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "108e3c49a884128e",
+  "active": "323d3b58557b796a",
   "lastOpenFiles": [
-    "11 Resolve Pod Deployment Issue.md",
+    "14 Resolve Volume Mounts Issue in Kubernetes.md",
+    "13 Deploy Highly Available Pods with Replication Controller.md",
     "12 Update Deployment and Service in Kubernetes.md",
     "10 Set Up Time Check Pod in Kubernetes.md",
+    "11 Resolve Pod Deployment Issue.md",
     "9 Create Countdown Job in Kubernetes.md",
     "4 Set Resource Limits in Kubernetes Pods.md",
     "6 Revert Deployment to Previous Version in Kubernetes.md",
