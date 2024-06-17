@@ -1,6 +1,3 @@
-Sure, here are contribution guidelines tailored for your repository:
-
----
 
 # Contribution Guidelines
 
