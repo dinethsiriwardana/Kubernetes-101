@@ -1,6 +1,3 @@
-Certainly! Here's a sample Security Policy for your repository focused on Kubernetes practice:
-
----
 
 # Security Policy
 
