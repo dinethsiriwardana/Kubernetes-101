@@ -1,4 +1,4 @@
-# Kubernetes 101
+# Kubernetes 101 [👉🏻](https://github.com/dinethsiriwardana/Kubernetes-101/blob/main/Kubernetes/Welcome.md)
 
 This repository contains documentation and examples for practicing Kubernetes tasks based on the [KodeKloud](https://www.kodekloud.com) Level 1 Kubernetes Practice. Each task is aimed at building fundamental Kubernetes skills.
 
@@ -21,50 +21,52 @@ This repository contains documentation and examples for practicing Kubernetes ta
 
 
 
-## Tasks Overview
+## [Tasks Overview 👉🏻](https://github.com/dinethsiriwardana/Kubernetes-101/blob/main/Kubernetes/Welcome.md)
 
-1. **Deploy Pods in Kubernetes Cluster**
+
+1. **[Deploy Pods in Kubernetes Cluster](https://github.com/dinethsiriwardana/Kubernetes-101/blob/main/Kubernetes/1%20Deploy%20Pods%20in%20Kubernetes%20Cluster.md)**
     - Learn how to create and deploy Pods in a Kubernetes cluster.
 
-2. **Deploy Applications with Kubernetes Deployments**
+2. **[Deploy Applications with Kubernetes Deployments](https://github.com/dinethsiriwardana/Kubernetes-101/blob/main/Kubernetes/2%20Deploy%20Applications%20with%20Kubernetes%20Deployments.md)**
     - Understand Kubernetes Deployments and how to manage applications with them.
 
-3. **Setup Kubernetes Namespaces and PODs**
+3. **[Setup Kubernetes Namespaces and PODs](https://github.com/dinethsiriwardana/Kubernetes-101/blob/main/Kubernetes/3%20Setup%20Kubernetes%20Namespaces%20and%20PODs.md)**
     - Create and manage namespaces and deploy Pods within them.
 
-4. **Set Resource Limits in Kubernetes Pods**
+4. **[Set Resource Limits in Kubernetes Pods](https://github.com/dinethsiriwardana/Kubernetes-101/blob/main/Kubernetes/4%20Set%20Resource%20Limits%20in%20Kubernetes%20Pods.md)**
     - Configure resource requests and limits for Kubernetes Pods.
 
-5. **Execute Rolling Updates in Kubernetes**
+5. **[Execute Rolling Updates in Kubernetes](https://github.com/dinethsiriwardana/Kubernetes-101/blob/main/Kubernetes/5%20Execute%20Rolling%20Updates%20in%20Kubernetes.md)**
     - Perform rolling updates to update applications without downtime.
 
-6. **Revert Deployment to Previous Version in Kubernetes**
+6. **[Revert Deployment to Previous Version in Kubernetes](https://github.com/dinethsiriwardana/Kubernetes-101/blob/main/Kubernetes/6%20Revert%20Deployment%20to%20Previous%20Version%20in%20Kubernetes.md)**
     - Roll back to previous deployment versions in case of issues.
 
-7. **Deploy Replica Set in Kubernetes Cluster**
+7. **[Deploy Replica Set in Kubernetes Cluster](https://github.com/dinethsiriwardana/Kubernetes-101/blob/main/Kubernetes/7%20Deploy%20Replica%20Set%20in%20Kubernetes%20Cluster.md)**
     - Ensure high availability by deploying applications with ReplicaSets.
 
-8. **Schedule Cronjobs in Kubernetes**
+8. **[Schedule Cronjobs in Kubernetes](https://github.com/dinethsiriwardana/Kubernetes-101/blob/main/Kubernetes/8%20Schedule%20Cronjobs%20in%20Kubernetes.md)**
     - Automate tasks by scheduling CronJobs in Kubernetes.
 
-9. **Create Countdown Job in Kubernetes**
+9. **[Create Countdown Job in Kubernetes](https://github.com/dinethsiriwardana/Kubernetes-101/blob/main/Kubernetes/9%20Create%20Countdown%20Job%20in%20Kubernetes.md)**
     - Create and manage Jobs for specific tasks, such as countdowns.
 
-10. **Set Up Time Check Pod in Kubernetes**
+10. **[Set Up Time Check Pod in Kubernetes](https://github.com/dinethsiriwardana/Kubernetes-101/blob/main/Kubernetes/10%20Set%20Up%20Time%20Check%20Pod%20in%20Kubernetes.md)**
     - Deploy a Pod that performs time checks.
 
-11. **Resolve Pod Deployment Issue**
+11. **[Resolve Pod Deployment Issue](https://github.com/dinethsiriwardana/Kubernetes-101/blob/main/Kubernetes/11%20Resolve%20Pod%20Deployment%20Issue.md)**
     - Troubleshoot and fix issues in Pod deployments.
 
-12. **Update Deployment and Service in Kubernetes**
+12. **[Update Deployment and Service in Kubernetes](https://github.com/dinethsiriwardana/Kubernetes-101/blob/main/Kubernetes/12%20Update%20Deployment%20and%20Service%20in%20Kubernetes.md)**
     - Update existing Deployments and Services in a Kubernetes cluster.
 
-13. **Deploy Highly Available Pods with Replication Controller**
+13. **[Deploy Highly Available Pods with Replication Controller](https://github.com/dinethsiriwardana/Kubernetes-101/blob/main/Kubernetes/13%20Deploy%20Highly%20Available%20Pods%20with%20Replication%20Controller.md)**
     - Use ReplicationControllers to maintain high availability of Pods.
 
-14. **Resolve Volume Mounts Issue in Kubernetes**
+14. **[Resolve Volume Mounts Issue in Kubernetes](https://github.com/dinethsiriwardana/Kubernetes-101/blob/main/Kubernetes/14%20Resolve%20Volume%20Mounts%20Issue%20in%20Kubernetes.md)**
     - Troubleshoot and resolve volume mounting issues in Kubernetes Pods.
-
+   
+    
 ## Getting Started
 
 To get started with each task, follow the detailed steps provided in the respective directories. Each task includes the necessary YAML files and commands to execute the tasks successfully.
