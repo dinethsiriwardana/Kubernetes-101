@@ -49,6 +49,8 @@ This is a comprehensive overview of the commonly used Kubernetes commands, cover
    - **View Config:** `kubectl config view`
 
 
+*Use Obsidian for better view* 
+
 [[1 Deploy Pods in Kubernetes Cluster]]
 [[2 Deploy Applications with Kubernetes Deployments]]
 [[3 Setup Kubernetes Namespaces and PODs]]
