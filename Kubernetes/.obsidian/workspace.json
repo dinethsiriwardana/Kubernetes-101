@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Welcome.md",
+                "file": "KudeKloude Level 1/4 Set Resource Limits in Kubernetes Pods.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Welcome.md",
+                "file": "KudeKloude Level 1/4 Set Resource Limits in Kubernetes Pods.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Welcome.md",
+                "file": "KudeKloude Level 1/4 Set Resource Limits in Kubernetes Pods.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Welcome.md"
+                "file": "KudeKloude Level 1/4 Set Resource Limits in Kubernetes Pods.md"
               }
             }
           }
@@ -148,21 +148,23 @@
   },
   "active": "c25066a1e15f6722",
   "lastOpenFiles": [
-    "1 Deploy Pods in Kubernetes Cluster.md",
+    "KudeKloude Level 1/1 Deploy Pods in Kubernetes Cluster.md",
+    "KudeKloude Level 1/Untitled",
     "Welcome.md",
-    "8 Schedule Cronjobs in Kubernetes.md",
+    "KudeKloude Level 1",
+    "KudeKloude Level 1/8 Schedule Cronjobs in Kubernetes.md",
     "Test.md",
-    "13 Deploy Highly Available Pods with Replication Controller.md",
-    "14 Resolve Volume Mounts Issue in Kubernetes.md",
-    "12 Update Deployment and Service in Kubernetes.md",
-    "10 Set Up Time Check Pod in Kubernetes.md",
-    "11 Resolve Pod Deployment Issue.md",
-    "9 Create Countdown Job in Kubernetes.md",
-    "4 Set Resource Limits in Kubernetes Pods.md",
-    "6 Revert Deployment to Previous Version in Kubernetes.md",
-    "7 Deploy Replica Set in Kubernetes Cluster.md",
-    "2 Deploy Applications with Kubernetes Deployments.md",
-    "5 Execute Rolling Updates in Kubernetes.md",
-    "3 Setup Kubernetes Namespaces and PODs.md"
+    "KudeKloude Level 1/13 Deploy Highly Available Pods with Replication Controller.md",
+    "KudeKloude Level 1/14 Resolve Volume Mounts Issue in Kubernetes.md",
+    "KudeKloude Level 1/12 Update Deployment and Service in Kubernetes.md",
+    "KudeKloude Level 1/10 Set Up Time Check Pod in Kubernetes.md",
+    "KudeKloude Level 1/11 Resolve Pod Deployment Issue.md",
+    "KudeKloude Level 1/9 Create Countdown Job in Kubernetes.md",
+    "KudeKloude Level 1/4 Set Resource Limits in Kubernetes Pods.md",
+    "KudeKloude Level 1/6 Revert Deployment to Previous Version in Kubernetes.md",
+    "KudeKloude Level 1/7 Deploy Replica Set in Kubernetes Cluster.md",
+    "KudeKloude Level 1/2 Deploy Applications with Kubernetes Deployments.md",
+    "KudeKloude Level 1/5 Execute Rolling Updates in Kubernetes.md",
+    "KudeKloude Level 1/3 Setup Kubernetes Namespaces and PODs.md"
   ]
 }
